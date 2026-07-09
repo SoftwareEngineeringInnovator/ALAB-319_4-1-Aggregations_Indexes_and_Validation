@@ -32,7 +32,7 @@ The project uses ES modules, so `package.json` includes:
 ```
 ## Author
 
-Fredy Chilito
-Software Engineering Student
-Created as part of the Per Scholas Software Engineering Program.
-Project: Aggregations, Indexes, and Validation
+* Fredy Chilito
+* Software Engineering Student
+* Created as part of the Per Scholas Software Engineering Program.
+* Project: Aggregations, Indexes, and Validation
